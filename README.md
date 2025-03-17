@@ -11,3 +11,7 @@ LVGL布局例程
 ## lv_arc
 LVGL圆弧例程
 ![](doc/2.png)  
+
+## lv_bar
+LVGL进度条例程
+![](doc/3.png)  
