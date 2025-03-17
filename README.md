@@ -23,3 +23,11 @@ LVGL按钮例程
 ## lv_label
 LVGL按钮例程
 ![](doc/5.png)  
+
+## lv_btn_matrix
+LVGL矩阵按钮例程
+
+[LVGL图片转C数组工具](https://lvgl.io/tools/imageconverter)
+
+![](doc/6.png)  
+
