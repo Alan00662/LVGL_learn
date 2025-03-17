@@ -31,3 +31,7 @@ LVGL矩阵按钮例程
 
 ![](doc/6.png)  
 
+## lv_checkbox
+LVGL复选框例程
+![](doc/7.png)  
+
