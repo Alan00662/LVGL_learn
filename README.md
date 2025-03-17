@@ -15,3 +15,7 @@ LVGL圆弧例程
 ## lv_bar
 LVGL进度条例程
 ![](doc/3.png)  
+
+## lv_btn
+LVGL按钮例程
+![](doc/4.png)  
