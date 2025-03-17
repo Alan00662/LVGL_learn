@@ -1,5 +1,8 @@
 # LVGL_learn
 LVGL学习
+基于CodeBlocks的LVGL学习例程
+
+[CodeBlocks下载 (20.03-mingw)](https://www.codeblocks.org/downloads/)
 
 ## 0.lv_port_win_codeblocks-master
 LVGL综合例程
@@ -46,3 +49,7 @@ LVGL滑块例程
 ## 10.lv_switch
 LVGL开关例程
 ![](doc/10.png)  
+
+## 11.lv_roller
+LVGL滚轮例程
+![](doc/11.png)  
