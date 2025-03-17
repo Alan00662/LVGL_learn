@@ -22,4 +22,4 @@ LVGL按钮例程
 
 ## lv_label
 LVGL按钮例程
-![](doc/4.png)  
+![](doc/5.png)  
