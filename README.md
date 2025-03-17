@@ -19,3 +19,7 @@ LVGL进度条例程
 ## lv_btn
 LVGL按钮例程
 ![](doc/4.png)  
+
+## lv_label
+LVGL按钮例程
+![](doc/4.png)  
