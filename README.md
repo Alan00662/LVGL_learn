@@ -21,7 +21,7 @@ LVGL按钮例程
 ![](doc/4.png)  
 
 ## 5.lv_label
-LVGL按钮例程
+LVGL标签例程
 ![](doc/5.png)  
 
 ## 6.lv_btn_matrix
@@ -41,4 +41,8 @@ LVGL下拉列表例程
 
 ## 9.lv_slider
 LVGL滑块例程
-![](doc/8.png)  
+![](doc/9.png)  
+
+## 10.lv_switch
+LVGL开关例程
+![](doc/10.png)  
