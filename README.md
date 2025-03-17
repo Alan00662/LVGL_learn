@@ -54,6 +54,6 @@ LVGL开关例程
 LVGL滚轮例程
 ![](doc/11.png)  
 
-## 12.lv_roller
+## 12.lv_img
 LVGL图片例程
 ![](doc/12.png) 
