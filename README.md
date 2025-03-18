@@ -69,3 +69,7 @@ LVGL led灯例程
 ## 15.lv_keyboard
 LVGL键盘例程
 ![](doc/15.png) 
+
+## 16.lv_txtarea
+LVGL文本框输入例程
+![](doc/16.png) 
