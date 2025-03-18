@@ -73,3 +73,7 @@ LVGL键盘例程
 ## 16.lv_txtarea
 LVGL文本框输入例程
 ![](doc/16.png) 
+
+## 17.lv_msgbox
+LVGL消息框提示例程
+![](doc/17.png) 
