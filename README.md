@@ -82,8 +82,9 @@ LVGL消息框提示例程
 LVGL图片按钮例程
 ![](doc/18.png) 
 
-## 19.lv_imgbtn
+## 19.lv_list
 LVGL列表例程
+![](doc/19.png) 
 
 ## 20.lv_imgbtn
 LVGL列表例程
