@@ -86,5 +86,7 @@ LVGL图片按钮例程
 LVGL列表例程
 ![](doc/19.png) 
 
-## 20.lv_imgbtn
-LVGL列表例程
+## 20.lv_table
+LVGL表格例程
+
+![](doc/20.png) 
