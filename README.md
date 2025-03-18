@@ -57,3 +57,7 @@ LVGL滚轮例程
 ## 12.lv_img
 LVGL图片例程
 ![](doc/12.png) 
+
+## 13.lv_tabview
+LVGL选项卡例程
+![](doc/13.png) 
