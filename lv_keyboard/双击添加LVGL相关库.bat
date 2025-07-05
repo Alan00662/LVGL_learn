@@ -4,3 +4,4 @@ cd /d "%~dp0"
 @echo on
 mklink /D lvgl ..\lvgl
 mklink /D lv_drivers ..\lv_drivers
+mklink /D lv_demos ..\lv_demos
