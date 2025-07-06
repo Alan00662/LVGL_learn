@@ -1,8 +1,13 @@
-# LVGL_learn
-LVGL学习
-基于CodeBlocks的LVGL学习例程
+# LVGL 仿真例程
+基于CodeBlocks的LVGL仿真例程，可用于快速学习LVGL。
+
+仿真平台使用CodeBlocks，这是一款轻便的LVGL开发环境。
 
 [CodeBlocks下载 (20.03-mingw)](https://www.codeblocks.org/downloads/)
+
+由于每个例程都需要引入lvgl库，如果每个例程都放在几个lvgl相关文件夹，那么仓库体积会非常大，因此可以使用快捷方式来引入lvgl库，在每个例程文件夹下都有一个“双击添加LVGL相关库.bat”文件，双击该文件，然后打开“LittlevGL.cbp”即可正常运行例程。
+
+![](doc/bat.png)  
 
 ## 0.lv_port_win_codeblocks-master
 LVGL综合例程
